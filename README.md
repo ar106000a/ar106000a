@@ -6,7 +6,7 @@ I'm a Full-Stack Engineer focused on building high-performance applications, rob
 
 ### ⚡ What I'm Up To
 * 🚀 Building **SentinelAuth** – A multi-tenant Authentication-as-a-Service platform.
-* 🚀 Building **FlowDesk** – A project management tool using Kanban board for freelancers.
+* 🛠️ Developed **FlowDesk** – A project management tool using Kanban board for freelancers.
 * 🛠️ Developed **DevBrief** – Transforming plain English ideas into structured project build plans.
 * 💼 Open for freelance collaborations and specialized backend/API architecture roles.
 
