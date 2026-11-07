@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Ali%20Raza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Backend%20%26%20Auth%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:6366f1&amp;height=200&amp;section=header&amp;text=Ali%20Raza&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20Engineer%20%7C%20Backend%20and%20Auth%20Systems&amp;descAlignY=55&amp;descSize=18&amp;v=1" width="100%"/>
 
 <a href="https://linkedin.com/in/ar1062000a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://alirxa.me"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -73,10 +73,10 @@ I build backend systems that don't fall over — **multi-tenant architectures, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ar106000a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ar106000a&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;v=1" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar106000a&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar106000a&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar106000a&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=1" height="165"/>
 
 </div>
 
