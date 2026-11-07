@@ -73,10 +73,10 @@ I build backend systems that don't fall over — **multi-tenant architectures, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ar106000a&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;v=2" height="165"/>
+<img src="https://github-readme-stats-chi-ten-21.vercel.app/api?username=ar106000a&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar106000a&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar106000a&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=2" height="165"/>
+<img src="https://github-readme-stats-chi-ten-21.vercel.app/api/top-langs/?username=ar106000a&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
 
 </div>
 
